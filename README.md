@@ -18,4 +18,4 @@ Puedes encontrar el dataset en la carpeta 'Data' o en el siguiente enlace: [Cred
   ![Curva ROC](images/roc_curve.png)
 
   Autor:
-  Luis Hector Camarillo Amador
+  Luis Hector Camarillo Amador - 24 de Abril del 2025
