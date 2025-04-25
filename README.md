@@ -13,9 +13,9 @@ Puedes encontrar el dataset en la carpeta 'Data' o en el siguiente enlace: [Cred
 
 ### Visualizaciones
 - **Matriz de Confusión**:
-  ![Matriz de Confusión](images/confusion_matrix.png)
+  ![Matriz de Confusión](img/CM.png)
 - **Curva ROC**:
-  ![Curva ROC](images/roc_curve.png)
+  ![Curva ROC](img/roc_curve.png)
 
   Autor:
   Luis Hector Camarillo Amador - 24 de Abril del 2025
